@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM arm64v8/alpine
 
 MAINTAINER Carlos Bernárdez "carlos@z4studios.com"
 
